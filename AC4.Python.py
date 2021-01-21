@@ -18,7 +18,7 @@ def main():
         count=2
         aux-=1
         print()
-    x = 5
+    x = 6
     aux = 0
     count = 2
     for i in range(LINES-1):
