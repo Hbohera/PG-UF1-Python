@@ -21,7 +21,7 @@ def main():
     print("Hay", count_f, "suspensos")  # Mostrará el total de suspensos.
     print(f"Y la media de suspensos es: {average_f:.2f}")  # Mostrará la media de suspensos.
     print()
-    print(f"Hay", count_p, "aprobados")  # Mostrará el total de aprobados.
+    print("Hay", count_p, "aprobados")  # Mostrará el total de aprobados.
     print(f"Y la media de aprobados es: {average_p:.2f}")  # Mostrará la media de aprobados.
 
 if __name__ == "__main__":
