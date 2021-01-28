@@ -17,6 +17,7 @@ def main():
         else:
             odd.append(number_list[i])
             count_o += 1
+    print()
     print("Los números pares son:", end=" ")
     for i in range(count_e):
         print(even[i], end=" ")
